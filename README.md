@@ -1,3 +1,3 @@
-#This is my local Repoditory.
+This is my local Repository.
 <br>
-learning to push my local files on github repositories.
+Learning to push my local files on github repositories.
